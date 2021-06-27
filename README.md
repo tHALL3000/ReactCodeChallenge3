@@ -13,6 +13,6 @@
 # ReactCodeChallenge3
 <p>Github Live page</p>
 https://thall3000.github.io/ReactCodeChallenge3/
-
+<br>
 <p>Created with CodeSandbox</p>
 https://codesandbox.io/s/github/thall3000/reactcodechallenge3
