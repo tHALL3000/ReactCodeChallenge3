@@ -1,3 +1,4 @@
+# ReactCodeChallenge3
 <h2>The Challenge: Update Data from Form Input</h2>
 <p>For this challenge, I have updated the DOM using the useState hook and the input field. The base from CodeSandbox is styled using Bulma classes and basic CSS</p>
 
@@ -9,6 +10,8 @@
 <li>Update data using a form</li>
 <li>Parse and display data in an array of objects</li>
 
-# ReactCodeChallenge3
+Github Live page
+https://thall3000.github.io/ReactCodeChallenge3/
 
 Created with CodeSandbox
+https://codesandbox.io/s/quizzical-monad-s94wo?file=/src/index.js
